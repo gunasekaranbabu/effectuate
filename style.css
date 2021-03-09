@@ -1425,7 +1425,7 @@ blockquote cite:before {
   position: relative;
   padding-left: 95px;
   display: inline-block;
-  line-height: 28px;
+  line-height: 10px;
   font-size: 14px;
   letter-spacing: 1px;
   font-weight: 400;
@@ -3521,10 +3521,10 @@ body .search-modal .close:hover {
   position: relative;
 }
 .rs-banner.style6 .banner-content {
-  padding: 170px 0 200px;
+  padding: 100px 0 100px;
 }
 .rs-banner.style6 .banner-content .sub-text {
-  font-size: 17px;
+  font-size: 20px;
   line-height: 30px;
   font-weight: 600;
   color: #f24c1a;
@@ -3533,7 +3533,7 @@ body .search-modal .close:hover {
   margin-bottom: 14px;
 }
 .rs-banner.style6 .banner-content .title {
-  font-size: 52px;
+  font-size: 45px;
   line-height: 70px;
   font-weight: 700;
   color: #101010;
@@ -3560,7 +3560,7 @@ body .search-modal .close:hover {
   max-width: 670px;
 }
 .rs-banner.style6 .images-part img {
-  animation: move-y 2s alternate infinite;
+  animation: move-y 0s alternate infinite;
 }
 /* ------------------------------------
     14. Counter Section CSS
